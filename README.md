@@ -33,8 +33,8 @@ Program to print the contact name and phone number using content providers.
 Developed by: Don Bosco Blaise A
 Registeration Number : 212221040045
 */
-```
-activity_main.xml:
+```  
+## activity_main.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -61,8 +61,8 @@ activity_main.xml:
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"/>
 </RelativeLayout>
-```
-MainActivity.java:
+```  
+## MainActivity.java:
 ```
 package com.example.contacts;
 import android.database.Cursor;
@@ -125,8 +125,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
 }
-```
-AndroidManifest.xml:
+```  
+## AndroidManifest.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
@@ -155,7 +155,7 @@ AndroidManifest.xml:
     </application>
 
 </manifest>
-```
+```  
 
 ## OUTPUT
 ![Screenshot (232)](https://github.com/DonBoscoBlaiseA/contentprovider/assets/140850829/68ed9c07-2a6f-4ba7-9e4c-db198166522c)
