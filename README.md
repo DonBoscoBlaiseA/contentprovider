@@ -161,7 +161,9 @@ public class MainActivity extends AppCompatActivity {
 <img src="https://github.com/DonBoscoBlaiseA/contentprovider/assets/140850829/68ed9c07-2a6f-4ba7-9e4c-db198166522c.png" width="600">
 <img src="https://github.com/DonBoscoBlaiseA/contentprovider/assets/140850829/38893d5e-aeb1-4985-b95b-7e736e7d91c9.png" width="600">
 <img src="https://github.com/DonBoscoBlaiseA/contentprovider/assets/140850829/b8c3bf0b-18eb-4484-b932-ccecf9b3f827.png" width="600">
-<img src="https://github.com/DonBoscoBlaiseA/contentprovider/assets/140850829/b4fcc521-58e5-43d6-b688-770c2aecfe7f.png" height="600">
+<img src="https://github.com/DonBoscoBlaiseA/contentprovider/assets/140850829/b4fcc521-58e5-43d6-b688-770c2aecfe7f.png" height="600">  
+<br>  
+
 <img src="https://github.com/DonBoscoBlaiseA/contentprovider/assets/140850829/e23e2492-d955-4790-860f-c209ed333581.png" height="600">
 
 ## RESULT
